@@ -23,11 +23,19 @@ The `images/` directory contains technical drawings and documentation for multip
   - Dimensional view (`inductor1_d.png`)
   - PDF documentation (`inductor1.pdf`)
 
+  <img src="images/inductor1_t.png" width="300">
+  <img src="images/inductor1_b.png" width="300">
+  <img src="images/inductor1_d.png" width="300">
+
 - **Inductor 2**: Complete set of drawings including:
   - Top view (`inductor2_t.png`)
   - Bottom view (`inductor2_b.png`)
   - Dimensional view (`inductor2_d.png`)
   - PDF documentation (`inductor2.pdf`)
+
+  <img src="images/inductor2_t.png" width="300">
+  <img src="images/inductor2_b.png" width="300">
+  <img src="images/inductor2_d.png" width="300">
 
 - **Inductor 3**: PDF documentation (`inductor3.pdf`)
 
@@ -58,7 +66,7 @@ Under the following terms:
 
 ## Author
 
-**[Fulong Li](https://fulongli.github.io/)**, Loughborough, 2020.
+**[Fulong Li](https://fulongli.github.io/)**.
 
 ---
 
